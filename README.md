@@ -1,2 +1,4 @@
-##iOS 10 SpringBoard Headers
-Generated from an iPhone 5s iOS 10 IPSW; extracted using class-dump.
+# iOS Springboard Headers
+
+This files are used to create hooks in iOS10
+set ARCHS = armv7 << for 32 bit MKcongif
